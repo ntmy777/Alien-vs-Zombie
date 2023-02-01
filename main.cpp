@@ -16,7 +16,7 @@
 #include <iomanip>
 using namespace std;  
 
-class Board
+class Board //class for game board
 {
     private:
         vector<vector<char>> map_;
